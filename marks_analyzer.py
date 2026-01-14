@@ -1,4 +1,5 @@
 # Student Marks Analyzer
+#This programs helps to find if the student has passed , total marks and average marks
 
 name = input("Enter student name: ")
 
@@ -19,3 +20,4 @@ if average >= 40:
     print("Result: PASS")
 else:
     print("Result: FAIL")
+
